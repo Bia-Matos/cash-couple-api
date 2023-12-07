@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoupleCashAPI", "CoupleCashAPI\CoupleCashAPI.csproj", "{B71DE42F-097D-4426-B8B0-36DE05A4BE8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B71DE42F-097D-4426-B8B0-36DE05A4BE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71DE42F-097D-4426-B8B0-36DE05A4BE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71DE42F-097D-4426-B8B0-36DE05A4BE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71DE42F-097D-4426-B8B0-36DE05A4BE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1F4047A-9851-45BA-BA4B-59396429EC34}
+	EndGlobalSection
+EndGlobal
