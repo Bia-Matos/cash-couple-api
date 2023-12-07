@@ -165,3 +165,5 @@ $RECYCLE.BIN/
 
 # VS Code directories
 .vscode/
+/bin/
+/obj/
